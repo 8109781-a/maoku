@@ -1,6 +1,6 @@
 {
  "name": "QX task gallery",
- "description": "互助码小车,根据大佬lxk0301库https://gitee.com/lxk0301/jd_scripts/raw/master/QuantumultX/lxk0301_gallery.json格式学习整理的活动小车哈。",
+ "description": "互助车。",
  "task": [
  "10 * * * * https://raw.githubusercontent.com/dajijiyangmao/UFO/main/HAOYANGMAO/DJDC.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png, enabled=true",
  "0 9,12,20,21 2-22 2 * https://raw.githubusercontent.com/dajijiyangmao/UFO/main/HAOYANGMAO/DJGJ.js, tag=环球挑战赛, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_global.png, enabled=true",
